@@ -24,7 +24,7 @@ Exploration of COVID-19 data to find out insights.
 
 - ### Data Analysis and Visualisation
 	 __MS PowerBI__
-	- [Superstore's Performance ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/MS%20PowerBi/Sales_Insights_SuperStore.pdf): Developing report and dashboard to track the performance of super store in each state of U.S over the period of last 04 years.  
+	- [Superstore's Performance ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/PowerBi%20Practice/Sales_Insights_SuperStore.pdf): Developing report and dashboard to track the performance of super store in each state of U.S over the period of last 04 years.  
 
 	- [Budget Sales Analysis ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/Budget%20Sales%20Analysis/Sales%20and%20Budget%20Analysis.pdf): Developing report and dashboard to BUDGET PROJECT DESCRIPTION HERE.  
 
@@ -32,13 +32,13 @@ Exploration of COVID-19 data to find out insights.
  
 	- [School Data Analysis ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/School%20Data%20Analysis/School%20Data%20Analysis.pdf): Developing report and dashboard to track the performance of super store in each state of U.S over the period of last 04 years.  
 
-	- [Tracking Sales and revenue ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/MS%20PowerBi/Sales%20and%20revenue%20trends.pdf): Developing a live dashboard for Sales director to track sales, profit and revenue trend of each branch of a Computer Hardware Store. 
+	- [Tracking Sales and revenue ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/PowerBi%20Practice/Sales%20and%20revenue%20trends.pdf): Developing a live dashboard for Sales director to track sales, profit and revenue trend of each branch of a Computer Hardware Store. 
 	
-	- [Sales report ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/MS%20PowerBi/SalesReport.pdf): Developing a live dashboard for Sales director to track sales, profit and revenue trend of each branch of a Computer Hardware Store. REPLACE AND UPDATE YOUR PROJECT DESCRIPTION HERE.
+	- [Sales report ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/PowerBi%20Practice/SalesReport.pdf): Developing a live dashboard for Sales director to track sales, profit and revenue trend of each branch of a Computer Hardware Store. REPLACE AND UPDATE YOUR PROJECT DESCRIPTION HERE.
 
-	- [Students Performance Overview](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/MS%20PowerBi/Students_performance_overview.pdf): Creating a report to present to academic Head to figure out the reason of failiure of students.
+	- [Students Performance Overview](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/PowerBi%20Practice/Students_performance_overview.pdf): Creating a report to present to academic Head to figure out the reason of failiure of students.
 
-	- [Crypto trend and Forecast ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/MS%20PowerBi/Crypto%20trend%20and%20Forecast.pdf): Developing a live dashboard for Sales director to track WRITEE CRYPTO PROJECT DESCROPTION HERE. 
+	- [Crypto trend and Forecast ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/PowerBi%20Practice/Crypto%20trend%20and%20Forecast.pdf): Developing a live dashboard for Sales director to track WRITEE CRYPTO PROJECT DESCROPTION HERE. 
 
 	_Key Skills: Transform shape and model data, Connecting PowerBi to MySQL, Data preparation in Power Query Editor, transformation tools, Front End Development including report and dashboard designing, Geospatial Data, Shape Maps and DAX_
 	<!-- 	Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
