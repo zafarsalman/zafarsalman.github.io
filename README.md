@@ -35,7 +35,7 @@ Exploration of COVID-19 data to find out insights.
 	- [Tracking Sales and revenue ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/PowerBi%20Practice/Sales%20and%20revenue%20trends.pdf): Developing a live dashboard for Sales director to track sales, profit and revenue trend of each branch of a Computer Hardware Store. 
 	
 	- [Sales report ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/PowerBi%20Practice/SalesReport.pdf): Developing a live dashboard for Sales director to track sales, profit and revenue trend of a Global Super Store that distributes office supplies and technologies all over the world. The dashboard also explains the top five products sold with their selling trend as well as the top five least sold products.
-	- 
+	
 	- [Students Performance Overview](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/PowerBi%20Practice/Students_performance_overview.pdf): Creating a report to present to academic Head to figure out the reason of failiure of students.
 
 	- [Crypto trend and Forecast ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/PowerBi%20Practice/Crypto%20trend%20and%20Forecast.pdf): Developing a live dashboard to understand the trend of top seven crypto currencies for the past nine years and forcasting their future trend for next three years.  
