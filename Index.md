@@ -44,8 +44,8 @@ Key Skills: [Summary of SQL skills](https://github.com/muhammadtoqeerzafar/muham
 - [School Data Analysis ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/MS%20PowerBi/Students_performance_overview.pdf): Creating a report to present to academic Head to figure out the reason of failiure of students.
 <img src="School Data Analysis/School Data Analysis.png?raw=true"/>
 
-- [Students Performance Overview ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/MS%20PowerBi/Crypto%20trend%20and%20Forecast.pdf): Creating a report to present to academic Head to figure out the reason of failiure of students.
-<img src="MS PowerBi/Crypto trend and Forecast.png?raw=true"/>
+- [Students Performance Overview ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/MS%20PowerBi/Students_performance_overview.pdf): Creating a report to present to academic Head to figure out the reason of failiure of students.
+<img src="MS PowerBi/students_performance.png?raw=true"/>
 
-- [Crypto trend and Forecast ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/MS%20PowerBi/Students_performance_overview.pdf): Creating a report to present to academic Head to figure out the reason of failiure of students.
+- [Students Performance Overview ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/MS%20PowerBi/Students_performance_overview.pdf): Creating a report to present to academic Head to figure out the reason of failiure of students.
 <img src="MS PowerBi/students_performance.png?raw=true"/>	
