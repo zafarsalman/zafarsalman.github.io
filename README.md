@@ -28,7 +28,7 @@ Exploration of COVID-19 data to find out insights.
 
 	- [Budget Sales Analysis ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/Budget%20Sales%20Analysis/Sales%20and%20Budget%20Analysis.pdf): Developing report and dashboard to demonstrate the variance betwen expected sales (Budget) and actual sales of a bicycle manufacturer in US for the FY 2014-18.  
 
-	- [Retail Analysis ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/Retail%20Analysis/Retail%20Analysis.pdf): Developing report and dashboard to track the performance of RETAIL PROJECT DESCRIPTION HERE. 
+	- [Retail Analysis ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/Retail%20Analysis/Retail%20Analysis.pdf): Developing report and dashboard to track the performance of two Austrailian super store chains while highlighting the performance of managers running the chains. The dashboard also explains the categories of most goods sold along their respective regions for the year 2016-18.
  
 	- [School Data Analysis ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/School%20Data%20Analysis/School%20Data%20Analysis.pdf): Developing report and dashboard to track the performance of super store in each state of U.S over the period of last 04 years.  
 
