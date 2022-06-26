@@ -26,7 +26,7 @@ Exploration of COVID-19 data to find out insights.
 	 __MS PowerBI__
 	- [Superstore's Performance ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/PowerBi%20Practice/Sales_Insights_SuperStore.pdf): Developing report and dashboard to track the performance of super store in each state of U.S over the period of last 04 years.  
 
-	- [Budget Sales Analysis ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/Budget%20Sales%20Analysis/Sales%20and%20Budget%20Analysis.pdf): Developing report and dashboard to BUDGET PROJECT DESCRIPTION HERE.  
+	- [Budget Sales Analysis ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/Budget%20Sales%20Analysis/Sales%20and%20Budget%20Analysis.pdf): Developing report and dashboard to demonstrate the variance betwen expected sales (Budget) and actual sales of a bicycle manufacturer in US for the FY 2014-18.  
 
 	- [Retail Analysis ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/Retail%20Analysis/Retail%20Analysis.pdf): Developing report and dashboard to track the performance of RETAIL PROJECT DESCRIPTION HERE. 
  
