@@ -38,7 +38,7 @@ Exploration of COVID-19 data to find out insights.
 
 	- [Students Performance Overview](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/PowerBi%20Practice/Students_performance_overview.pdf): Creating a report to present to academic Head to figure out the reason of failiure of students.
 
-	- [Crypto trend and Forecast ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/PowerBi%20Practice/Crypto%20trend%20and%20Forecast.pdf): Developing a live dashboard for Sales director to track WRITEE CRYPTO PROJECT DESCROPTION HERE. 
+	- [Crypto trend and Forecast ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/PowerBi%20Practice/Crypto%20trend%20and%20Forecast.pdf): Developing a live dashboard to understand the trend of top seven crypto currencies for the past nine years and forcasting their future trend for next three years.  
 
 	_Key Skills: Transform shape and model data, Connecting PowerBi to MySQL, Data preparation in Power Query Editor, transformation tools, Front End Development including report and dashboard designing, Geospatial Data, Shape Maps and DAX_
 	<!-- 	Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
