@@ -35,16 +35,20 @@ Key Skills: [Summary of SQL skills](https://github.com/muhammadtoqeerzafar/muham
 <img src="School Data Analysis/School Data Analysis.png?raw=true"/>
  
  
-- [Tracking Sales and Revenue](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/PowerBi%20Practice/Sales%20and%20revenue%20trends.pdf): Developing a live dashboard for Sales director to track sales, profit and revenue trend of each branch of a Computer Hardware Store. 
-<img src="PowerBi Practice/Revenue_trend.png?raw=true"/>
+ - [Retail Analysis ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/PowerBi%20Practice/Students_performance_overview.pdf): Creating a report to present to academic Head to figure out the reason of failiure of students.
+<img src="Retail Analysis/Retail Analysis.png?raw=true"/>
 
 
 - [Budget Sales Analysis ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/Budget%20Sales%20Analysis/Sales%20and%20Budget%20Analysis.pdf): Developing report and dashboard to BUDGET PROJECT DESCRIPTION HERE.
 <img src="Budget Sales Analysis/Sales and Budget Analysis.png?raw=true"/>
 
 
-- [Retail Analysis ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/PowerBi%20Practice/Students_performance_overview.pdf): Creating a report to present to academic Head to figure out the reason of failiure of students.
-<img src="Retail Analysis/Retail Analysis.png?raw=true"/>
+- [Crypto trend and Forecast ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/PowerBi%20Practice/Crypto%20trend%20and%20Forecast.pdf): Developing a live dashboard for Sales director to track WRITEE CRYPTO PROJECT DESCROPTION HERE. 
+<img src="PowerBi Practice/Crypto trend and Forecast.png?raw=true"/>
+
+
+- [Tracking Sales and Revenue](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/PowerBi%20Practice/Sales%20and%20revenue%20trends.pdf): Developing a live dashboard for Sales director to track sales, profit and revenue trend of each branch of a Computer Hardware Store. 
+<img src="PowerBi Practice/Revenue_trend.png?raw=true"/>
 
 
 - [Students Performance Overview ](https://github.com/zafarsalman/zafarsalman.github.io/blob/main/PowerBi%20Practice/Students_performance_overview.pdf): Creating a report to present to academic Head to figure out the reason of failiure of students.
